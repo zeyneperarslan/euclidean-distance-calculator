@@ -18,7 +18,7 @@ Euclidean Distance:
 ## 🚀 How to Run
 
 ```bash
-python distance_calculator.py
+python main.py
 ```
 
 ## 📌 Example Output
